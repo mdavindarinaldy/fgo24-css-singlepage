@@ -1,0 +1,30 @@
+
+th {
+    font-weight: 200;
+    border: 1px solid;
+}
+td {
+    border: 1px solid;
+    justify-content: center;
+}
+img {
+    height: 250px;
+    width: 250px;
+    justify-content: center;
+}
+
+img.wa {
+    height: 75px;
+    width: 75px;
+}
+
+div {
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+div:hover {
+    background-color: gainsboro;
+}
